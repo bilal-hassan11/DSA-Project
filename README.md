@@ -16,7 +16,7 @@ Security is a major worry in this inventive tech world. Consistently millions of
 </p>
 
 
-## 👨‍💻Developer:<a href="https://github.com/Noor-Ahmed-12">Noor Ahmed Shaikh</a>
+## 👨‍💻Developer:<a href="https://github.com/Noor-Ahmed-12">Bilal Hassan</a>
 ### I developed Password Manager in Java using hashtable-Data structure and Algorithm
 
 
